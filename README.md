@@ -1,16 +1,63 @@
-## Hi there 👋
+<!-- Profil GitHub README - by Bazaoui Amine -->
 
-<!--
-**AB-Amine/AB-Amine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Salut, je suis <span style="color:#00BFFF;">Bazaoui Amine</span></h1>
+<h3 align="center">💻 Développeur Full Stack & Passionné de Technologie</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 À propos de moi
+💡 J’aime créer, apprendre et transformer des idées en solutions digitales efficaces.  
+🎓 Développeur passionné par la programmation, la conception web et la gestion de données.  
+📈 Toujours en quête d’amélioration continue dans les domaines du **logiciel**, du **web** et de la **data**.  
+
+---
+
+### 🧠 Compétences techniques
+
+#### 💬 Langages de programmation
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+#### 🎨 Front-End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### ⚙️ Back-End
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### 🗃️ Bases de données
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4A154B?style=for-the-badge&logo=databricks&logoColor=white)
+
+---
+
+### 🛠️ Outils & Environnement
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+### 📫 Contact
+📧 **Email :** [bazaouiamine85@gmail.com](mailto:bazaouiamine85@gmail.com)  
+🌍 **GitHub :** [github.com/AB-Amine](https://github.com/AB-Amine)
+
+---
+
+### 🌟 Objectif
+> Devenir un **développeur complet**, capable de construire des applications performantes, intuitives et sécurisées.  
+> Toujours prêt à apprendre, collaborer et innover.
+
+---
+
+<h3 align="center">⚡ "Le meilleur code est celui qui rend la vie plus simple." ⚡</h3>
+
