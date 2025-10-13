@@ -49,6 +49,8 @@
 
 ### 📫 Contact
 📧 **Email :** [bazaouiamine85@gmail.com](mailto:bazaouiamine85@gmail.com)  
+🌐 **Portfolio :** [AB-Amine.github.io](https://AB-Amine.github.io)  
+🔗 **LinkedIn :** [Amine Bazaoui](https://www.linkedin.com/in/amine-bazaoui-14561221b/)  
 🌍 **GitHub :** [github.com/AB-Amine](https://github.com/AB-Amine)
 
 ---
@@ -60,4 +62,3 @@
 ---
 
 <h3 align="center">⚡ "Le meilleur code est celui qui rend la vie plus simple." ⚡</h3>
-
